@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////
 //ECE 150 - PROJECT 2
 //
-//File:					stream_ciphers.cpp
-//Author: 				Stephanie De Pol
+//File:			stream_ciphers.cpp
+//Author: 		Stephanie De Pol
 //Program Objective: 	Encodes and decodes plain text by converting
 //                      it to cipher text and then applying ASCII armor.
 ////////////////////////////////////////////////////////////////////////
